@@ -1,4 +1,5 @@
-# Learning-Git
+# Learning-Git and GitHub.
 
-Larn how to use git and github.
-Hello, World!
+## Learn git and github from amigoscode.
+
+![Uploading 9fb7a5fe8f495b55acb4752855c0df28.jpg…]()
